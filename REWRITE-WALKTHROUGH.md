@@ -149,6 +149,25 @@ Per your advisor's own note, these were already strong and were left as-is:
 - Relocated the "Client indemnification" section to sit immediately before "Limitation of remedies"
   so all risk-transfer provisions are grouped together.
 
+## Sales / clarity pass on highlighted content — applied ✅
+- **Scope of professional services — rewritten in a more sales-forward voice.** Added a value-
+  framing intro ("ONYX becomes the Client's accounting department…"), renamed the internal headers
+  to client-facing ones ("Day-to-day accounting operations," "Controller-level oversight and
+  reporting"), and rewrote each bullet to lead with the benefit. List numbering and the yellow
+  "customizable" highlighting were preserved. The `[identify other accounting services]` form-field
+  placeholder was left intact.
+- **Cash access services — intentionally left factual/precise.** This block grants ONYX financial
+  authority and ties to the indemnification and liability provisions; marketing language there
+  would weaken the legal position.
+- **Additional services — tightened labels** (e.g., "Intacct services" → "Sage Intacct
+  implementation and support"; "Work opportunity tax credit services" → "Work Opportunity Tax
+  Credit (WOTC) services").
+- **Client responsibilities — reframed (clarity, not sales)** as a shared-control partnership that
+  protects the Client's assets, with two bullets tightened.
+- **Service satisfaction — light warm-up** ("We stand behind our work…").
+- **Fees / Retainer — reviewed, left as-is.** These are clear and legally load-bearing; no sales
+  language added. Open to specific edits on request.
+
 ## Still optional (cosmetic only)
 - **Capitalization of "Agreement":** the new insurance/advisor text uses capital-A "Agreement,"
   while the original letter body uses lowercase "agreement." The file keeps each as written.
