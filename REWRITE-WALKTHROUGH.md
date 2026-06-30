@@ -185,6 +185,36 @@ client:
 - The fixed-fee intro no longer says "and hours" (there are no hourly tables in that version).
 - **Still to fill in the hourly version:** the `[hours]` placeholders in the time-estimate tables.
 
+## Document restructure — value-first / legal-last ✅
+The body was reordered so the letter reads as a proposal, with all legal grouped at the end:
+
+1. **What we'll do for you** (was "Scope of professional services")
+2. **How we'll work together** (was "The Client's responsibilities relevant to ONYX's access to
+   the Client's monies")
+3. **Fees & billing** (was "Fees, time estimates, and terms"; keeps Retainer, Other fees, Finance
+   charges)
+4. **Our service commitment** (was "Service satisfaction")
+5. **Terms and Conditions** — new banner heading on a fresh page (page break), with a one-line
+   intro, gathering everything legal: engagement objectives/limitations, **Client indemnification**,
+   limitation of remedies, time limitation, other provisions, employment, consent (subcontractors &
+   technology)
+6. **Agreement** + signature
+
+> ⚠️ **Professional-standards note:** the "management assumes all responsibilities" and "no
+> assurance / not audited" disclaimers now sit lower, under Terms and Conditions. They're still in
+> the document and legible — but because they're required for this type of preparation engagement,
+> have Steven/your attorney confirm they're comfortable with them at the bottom.
+
+## Cover page redesigned ✅
+- Retitled from "Engagement letter / tailored for" to **"Engagement Proposal & Agreement / Prepared
+  exclusively for"** (renders on two lines, above the client name).
+- Added a **value tagline** (italic): *"The accounting department your business deserves — without
+  the cost and overhead of building one in-house."*
+- Added a **proof-points line**: *Day-to-day bookkeeping · Controller-level oversight · Cash-flow
+  management · Always-on advisory.*
+- Logo/layout and "Prepared by" block unchanged. (No CliftonLarsonAllen branding exists anywhere —
+  verify the cover image itself is the Onyx logo.)
+
 ## Still optional (cosmetic only)
 - **Capitalization of "Agreement":** the new insurance/advisor text uses capital-A "Agreement,"
   while the original letter body uses lowercase "agreement." The file keeps each as written.
