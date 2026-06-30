@@ -215,6 +215,21 @@ The body was reordered so the letter reads as a proposal, with all legal grouped
 - Logo/layout and "Prepared by" block unchanged. (No CliftonLarsonAllen branding exists anywhere —
   verify the cover image itself is the Onyx logo.)
 
+## Flexibility / no-lock-in language ✅
+So the engagement isn't locked down — services can be added, reduced, or changed without rewriting
+the whole letter:
+- **New subsection in "What we'll do for you": "Adjusting your services as your needs change"** —
+  *"…Services can be added, reduced, or adjusted at any time by mutual written agreement — typically
+  a brief addendum to this letter rather than a new engagement letter — with fees adjusted
+  accordingly. All other terms of this agreement remain in effect, so adding or removing a service
+  never requires starting over."*
+- **Sharpened the amendment clause** in "Our service commitment" to state that scope/fees can be
+  revised *"without the need to re-execute this agreement,"* binding when in writing and signed by
+  both parties.
+- These reinforce the existing **evergreen clause** in the opening ("…applies to the Initial Period
+  and all subsequent periods, unless changed in a written communication signed by both…") and the
+  **addendum mechanism** in the additional-services list.
+
 ## Still optional (cosmetic only)
 - **Capitalization of "Agreement":** the new insurance/advisor text uses capital-A "Agreement,"
   while the original letter body uses lowercase "agreement." The file keeps each as written.
