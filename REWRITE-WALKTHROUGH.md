@@ -78,8 +78,17 @@ The **mediation/arbitration** and **Arizona governing-law** paragraphs are untou
 
 ## Change 3 — Technology & Cybersecurity Risk Allocation  ✅ added
 
-**Where:** Appended to the existing `Technology` section (under `Consent`), after the current
-third-party-software paragraph.
+**Where:** The `Technology` section (under `Consent`).
+
+> **Update — Steven's replacement Technology paragraph (merged, not stacked).** Steven's newer
+> paragraph overlaps with the original opener (both say providers may access Client data), so it
+> **replaces** the original opening paragraph rather than being added on top. The one unique
+> sentence the original had that Steven's lacked — *ONYX's authority to sign vendor agreements on
+> the Client's behalf and provide a copy on request* — was **preserved** as the following
+> sentence so that operational authorization isn't lost. The new opener adds disclosure of
+> **AI / automated data-processing tools** and a **"commercially reasonable efforts" provider-
+> security standard.** Final order of the section: Steven's paragraph → vendor-signing
+> authorization → the three risk-allocation paragraphs below.
 
 **Three paragraphs added, verbatim from the memo:**
 1. Client acknowledges ONYX's access and remains **solely responsible for its own system
