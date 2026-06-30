@@ -165,8 +165,18 @@ Per your advisor's own note, these were already strong and were left as-is:
 - **Client responsibilities — reframed (clarity, not sales)** as a shared-control partnership that
   protects the Client's assets, with two bullets tightened.
 - **Service satisfaction — light warm-up** ("We stand behind our work…").
-- **Fees / Retainer — reviewed, left as-is.** These are clear and legally load-bearing; no sales
-  language added. Open to specific edits on request.
+- **Fee section — light clarity pass (meaning preserved, numbers untouched).** Tightened the two
+  fee-explainer paragraphs and fixed a double space in the invoices line. **Retainer left as-is.**
+
+### Fee-section structural items that need YOUR call (not auto-changed)
+1. **Both an hourly-rate structure and a fixed-fee structure are present.** For a given client you
+   normally keep only one; right now they appear back-to-back. Delete whichever model doesn't apply
+   per engagement.
+2. **In the fixed-fee block, the explainer says the fee "is not a maximum, minimum, fixed, or
+   guaranteed amount."** That reads oddly next to a stated "$X fixed fee per month." If you use the
+   fixed-fee model, drop or soften that sentence so it doesn't appear to contradict the fixed fee.
+3. **The time-estimate tables still contain `[hours]` placeholders** to fill in (or delete if you go
+   fixed-fee).
 
 ## Still optional (cosmetic only)
 - **Capitalization of "Agreement":** the new insurance/advisor text uses capital-A "Agreement,"
