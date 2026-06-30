@@ -123,6 +123,32 @@ Per your advisor's own note, these were already strong and were left as-is:
    trailing-12-month cap (lower, more protective on an evergreen engagement).
 3. **Retained lead-in sentence** in Limitation of remedies (Change 2c) — ✅ **CONFIRMED kept.**
 
+## Polish pass (review round) — all applied ✅
+**Tier 1 — corrections**
+- "responsible for ~~our~~ its property and casualty…" (stray word removed)
+- Employment provision: "the ~~CLient~~ Client" (typo)
+- Employment provision: "~~refutable~~ rebuttable presumption" (legal term of art)
+- Fixed-fee paragraph: "the actual cost of our ~~legal~~ services" (law-firm template leftover)
+
+**Tier 2 — substantive**
+- Removed all embedded CLA template scaffolding visible to clients: the "BizOps / preparation
+  assistance / DAR 6/26/17 / INTERIM, EVERGREEN / NOT INDEPENDENT / Please read endnote 2" header
+  block, the "Include the following section for hourly/fixed fee engagements" and "(Delete if not
+  applicable)" drafter notes, the trailing "CliftonLarsonAllen Guidance and Considerations" section,
+  and all 8 internal CLA guidance endnotes.
+- Reworded the unenforceable insurance sentence in "Other provisions": now *"…any resulting losses
+  shall be the Client's responsibility, and the Client shall look first to its own insurance
+  coverage."* (a contract can't dictate the client's insurer's obligations).
+- Reconciled Scope vs. Objectives: added a sentence to the Objectives section clarifying that any
+  analysis/presentation of financial information to management is based on statements generated from
+  the Client's own accounting system and is not a preparation, compilation, review, or audit by ONYX.
+
+**Tier 3 — polish**
+- Normalized "Agreement" → "agreement" in the inserted clauses to match the letter's house style.
+- Changed "you/your" → "the Client" in the new Technology paragraph for consistency.
+- Relocated the "Client indemnification" section to sit immediately before "Limitation of remedies"
+  so all risk-transfer provisions are grouped together.
+
 ## Still optional (cosmetic only)
 - **Capitalization of "Agreement":** the new insurance/advisor text uses capital-A "Agreement,"
   while the original letter body uses lowercase "agreement." The file keeps each as written.
