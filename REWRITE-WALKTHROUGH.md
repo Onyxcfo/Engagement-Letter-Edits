@@ -230,6 +230,20 @@ the whole letter:
   and all subsequent periods, unless changed in a written communication signed by both…") and the
   **addendum mechanism** in the additional-services list.
 
+## Scope rebuilt as a 3-tier pitch (after comparing to sent letters) ✅
+Compared the draft to two letters Onyx actually sent (Mountain Peak Air; ROS America Racking) and
+found the draft was **missing the CFO tier** entirely. Rebuilt the Scope section:
+- **Hybrid format** — each tier opens with a value-lead sentence, then bullets (per the sent
+  letters' style: paragraph richness where it sells, bullets for clarity).
+- **Three tiers now:** *Day-to-day accounting operations* (Staff) → *Controller-level oversight &
+  reporting* → **CFO-level strategic support** (new): strategic financial partner; advisory on
+  reporting structure & policy; budgeting/forecasting/modeling; financing & lender-negotiation
+  support; periodic ownership insight.
+- **Reallocation to avoid duplication:** budgeting moved Controller → CFO; the bank bullet split
+  (Controller keeps routine communications, CFO takes negotiations/financing).
+- **Adopted Letter B's framing:** services are *"illustrative … not a fixed or exhaustive list …
+  as needed or requested"* — signals breadth and reinforces the no-lock-in flexibility.
+
 ## Still optional (cosmetic only)
 - **Capitalization of "Agreement":** the new insurance/advisor text uses capital-A "Agreement,"
   while the original letter body uses lowercase "agreement." The file keeps each as written.
