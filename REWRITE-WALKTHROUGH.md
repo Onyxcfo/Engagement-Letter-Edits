@@ -116,10 +116,14 @@ Per your advisor's own note, these were already strong and were left as-is:
 
 ---
 
-## Open items for your sign-off
-1. **Broad `ONYX Parties` definition** sweeping through the whole agreement (Change 2a) — OK?
-2. **Rolling 12-month liability cap** vs. all-fees-ever (Change 2b) — confirm intent.
-3. **Keep vs. delete** the retained lead-in sentence in Limitation of remedies (Change 2c).
-4. **Capitalization of "Agreement":** your advisor's new text uses capital-A "Agreement," while
-   the original letter uses lowercase "agreement" throughout. The revised file keeps each as
-   written. If you want it uniform, tell me which style and I'll normalize the whole document.
+## Sign-off items — RESOLVED
+1. **Broad `ONYX Parties` definition** sweeping through the whole agreement (Change 2a) —
+   ✅ **CONFIRMED.** Broad definition (incl. subcontractors and affiliates) applies throughout.
+2. **Rolling 12-month liability cap** vs. all-fees-ever (Change 2b) — ✅ **CONFIRMED.** Keep the
+   trailing-12-month cap (lower, more protective on an evergreen engagement).
+3. **Retained lead-in sentence** in Limitation of remedies (Change 2c) — ✅ **CONFIRMED kept.**
+
+## Still optional (cosmetic only)
+- **Capitalization of "Agreement":** the new insurance/advisor text uses capital-A "Agreement,"
+  while the original letter body uses lowercase "agreement." The file keeps each as written.
+  Not a legal issue; tell me if you ever want it normalized one way.
