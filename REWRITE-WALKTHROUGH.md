@@ -244,6 +244,26 @@ found the draft was **missing the CFO tier** entirely. Rebuilt the Scope section
 - **Adopted Letter B's framing:** services are *"illustrative … not a fixed or exhaustive list …
   as needed or requested"* — signals breadth and reinforces the no-lock-in flexibility.
 
+## Round 2 — Steven's edits from the Korman client version ✅
+Applied the changes that were **general** (not Korman-specific):
+- **Amendment language loosened to email** — changes may be agreed "including by email … no
+  signature, formal addendum, or re-execution required" (intro, "Adjusting your services," and
+  "Our service commitment").
+- **Addressed to the entity only** — removed the "[Governance Group] and Management" line.
+- **Cover** — tagline pulled left (hanging indent) and proof points turned into a vertical bulleted
+  list: *Bookkeeping support · Controller-level oversight · Review & audit readiness · CFO Level
+  Advisory.*
+- **Employment provision** — buyout fees set to **$200K CFO / $150K controller / $100K staff**
+  (confirmed new firm standard); solicitation window **60 → 90 days.**
+- **Confirmed kept as-is / client-specific (not propagated):** cash-access grant stays in the
+  standard templates; tier-1 heading stays "Day-to-day accounting operations"; Korman's
+  no-cash-access model, QuickBooks/TBK Bank/product-line/2024-25 catch-up details were left out.
+
+## Two-section structure (Steven's transcript vision) ✅
+- Big bordered **"Section 1 – What we'll do for you"** and **"Section 2 – Terms and Conditions"**
+  banners (24pt title + small "SECTION 1/2" label, bracketed by rules top and bottom), so the pitch
+  and the T&Cs read as two clearly numbered parts. Section 2 starts on its own page.
+
 ## Still optional (cosmetic only)
 - **Capitalization of "Agreement":** the new insurance/advisor text uses capital-A "Agreement,"
   while the original letter body uses lowercase "agreement." The file keeps each as written.
