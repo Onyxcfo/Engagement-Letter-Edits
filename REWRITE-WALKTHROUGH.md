@@ -1,8 +1,14 @@
 # Engagement Letter Rewrite — Insurance Revisions Walkthrough
 
 This is a section-by-section guide to the three changes your insurance advisor recommended,
-mapped to the exact spots in the existing engagement letter. A revised Word file with all
-changes already applied is in `Onyx_Engagement_Letter_REVISED.docx`.
+mapped to the exact spots in the engagement letter, plus the later rewrite and template work.
+
+The engagement letter now ships as **two templates**, identical except for the fee model:
+`Onyx_Engagement_Letter_HOURLY.docx` (hourly rate card) and
+`Onyx_Engagement_Letter_FIXED.docx` (fixed fee). The earlier combined
+`Onyx_Engagement_Letter_REVISED.docx` master has been **retired** (still recoverable from git
+history). See **Later updates** at the end for everything changed after this walkthrough was
+first written.
 
 Use this checklist to confirm nothing was left out.
 
@@ -177,7 +183,10 @@ client:
 |---|---|---|
 | `Onyx_Engagement_Letter_HOURLY.docx` | Hourly | Billing-rate table, time-estimate tables (`[hours]` to fill), and the hourly fee explainer. Fixed-fee block removed. |
 | `Onyx_Engagement_Letter_FIXED.docx` | Fixed fee | Fixed-fee amounts, the "unlimited meetings/consultations" paragraph, and a rewritten caveat that no longer contradicts a fixed price. Hourly rates + time-estimate tables removed. |
-| `Onyx_Engagement_Letter_REVISED.docx` | Both (master) | Original combined version kept for reference only — don't send as-is. |
+
+> The former `Onyx_Engagement_Letter_REVISED.docx` "both / master" file has since been **retired**
+> — HOURLY and FIXED carry identical content and differ only in the fee section, so the merged
+> master was redundant. It remains recoverable from git history if ever needed.
 
 - The contradictory *"not a maximum, minimum, fixed, or guaranteed amount"* sentence was **rewritten**
   in the fixed-fee version to: *"This fixed fee assumes timely cooperation… If the scope of work
@@ -211,7 +220,7 @@ The body was reordered so the letter reads as a proposal, with all legal grouped
 - Added a **value tagline** (italic): *"The accounting department your business deserves — without
   the cost and overhead of building one in-house."*
 - Added a **proof-points line**: *Day-to-day bookkeeping · Controller-level oversight · Cash-flow
-  management · Always-on advisory.*
+  management · Always-on advisory.* *(proof points later revised — see Later updates.)*
 - Logo/layout and "Prepared by" block unchanged. (No CliftonLarsonAllen branding exists anywhere —
   verify the cover image itself is the Onyx logo.)
 
@@ -230,6 +239,10 @@ the whole letter:
   and all subsequent periods, unless changed in a written communication signed by both…") and the
   **addendum mechanism** in the additional-services list.
 
+> *Superseded — see Later updates:* the "signed by both / addendum" wording in all three amendment
+> clauses was later relaxed so scope/fee changes take effect when **confirmed in writing, including
+> by email** — no signature, formal addendum, or re-execution required.
+
 ## Scope rebuilt as a 3-tier pitch (after comparing to sent letters) ✅
 Compared the draft to two letters Onyx actually sent (Mountain Peak Air; ROS America Racking) and
 found the draft was **missing the CFO tier** entirely. Rebuilt the Scope section:
@@ -244,27 +257,41 @@ found the draft was **missing the CFO tier** entirely. Rebuilt the Scope section
 - **Adopted Letter B's framing:** services are *"illustrative … not a fixed or exhaustive list …
   as needed or requested"* — signals breadth and reinforces the no-lock-in flexibility.
 
-## Round 2 — Steven's edits from the Korman client version ✅
-Applied the changes that were **general** (not Korman-specific):
-- **Amendment language loosened to email** — changes may be agreed "including by email … no
-  signature, formal addendum, or re-execution required" (intro, "Adjusting your services," and
-  "Our service commitment").
-- **Addressed to the entity only** — removed the "[Governance Group] and Management" line.
-- **Cover** — tagline pulled left (hanging indent) and proof points turned into a vertical bulleted
-  list: *Bookkeeping support · Controller-level oversight · Review & audit readiness · CFO Level
-  Advisory.*
-- **Employment provision** — buyout fees set to **$200K CFO / $150K controller / $100K staff**
-  (confirmed new firm standard); solicitation window **60 → 90 days.**
-- **Confirmed kept as-is / client-specific (not propagated):** cash-access grant stays in the
-  standard templates; tier-1 heading stays "Day-to-day accounting operations"; Korman's
-  no-cash-access model, QuickBooks/TBK Bank/product-line/2024-25 catch-up details were left out.
-
-## Two-section structure (Steven's transcript vision) ✅
-- Big bordered **"Section 1 – What we'll do for you"** and **"Section 2 – Terms and Conditions"**
-  banners (24pt title + small "SECTION 1/2" label, bracketed by rules top and bottom), so the pitch
-  and the T&Cs read as two clearly numbered parts. Section 2 starts on its own page.
-
 ## Still optional (cosmetic only)
 - **Capitalization of "Agreement":** the new insurance/advisor text uses capital-A "Agreement,"
   while the original letter body uses lowercase "agreement." The file keeps each as written.
   Not a legal issue; tell me if you ever want it normalized one way.
+
+---
+
+## Later updates (after the original walkthrough)
+Changes made to the templates after the sections above were written. These reflect the **current**
+state of `Onyx_Engagement_Letter_HOURLY.docx` and `Onyx_Engagement_Letter_FIXED.docx`.
+
+- **Consolidated to two templates.** `Onyx_Engagement_Letter_REVISED.docx` (the combined
+  hourly-plus-fixed master) was retired. HOURLY and FIXED carry identical content and differ **only**
+  in the fee section, so future legal/scope edits are made in just those two files. REVISED remains
+  recoverable from git history.
+- **Amendment / flexibility language relaxed to email-confirmable.** All three amendment clauses —
+  the opening evergreen clause, "Adjusting your services as your needs change," and "Our service
+  commitment" — now state that scope/fee changes take effect once **confirmed in writing, including
+  by email**, with **no signature, formal addendum, or re-execution** required. (A written trail is
+  still required; purely oral changes are not binding.)
+- **7-year record-retention clause added.** A new **"Record retention."** provision sits at the end
+  of the "Other provisions" section (immediately before "Employment provision"): ONYX retains
+  working papers for seven (7) years, owns its work product, returns Client-furnished originals on
+  written request, and the Client keeps its own retention obligations.
+- **Employment provision fees updated.** Now **$200,000 for the CFO, $150,000 for the controller,
+  and $100,000 for the staff**, with a **ninety (90)-day** post-departure solicitation presumption
+  (was $60k / $25k and sixty (60) days).
+- **Cover proof points refreshed.** Now four stacked lines: *Bookkeeping support · Controller-level
+  oversight · Review & audit readiness · CFO Level Advisory* (replaces the earlier single line).
+- **Section labels added.** "Section 1" over "What we'll do for you" and "Section 2" over "Terms and
+  Conditions."
+- **Governance placeholder removed.** The `[Insert Governance Group Name] and Management` line in the
+  address block was deleted.
+
+> **Note on the Korman client letter.** `Onyx_Engagement_Letter_Korer_HOURLY.docx` is a
+> **signed, executed** client letter tailored from the hourly template (FY2026 engagement, 2024/2025
+> catch-up, no cash access, $3,000 retainer). It is a client deliverable, not a template — leave it
+> as-is.
