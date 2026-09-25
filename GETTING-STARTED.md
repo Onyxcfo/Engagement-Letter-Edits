@@ -9,13 +9,12 @@ any of that again.
 ## One-time setup for each person
 
 1. **Claude account.** Each person needs their own login on the Onyx Claude plan (claude.ai).
-2. **GitHub access to this repo.** The repo is `onyxcfo/engagement-letter-edits`. Right now the only
-   account with access is the `Onyxcfo` GitHub account. For Josephine, choose one:
-   - **Recommended:** Josephine creates her own GitHub account. Steven adds her on GitHub under
-     **Settings → Collaborators → Add people** with *Write* access.
-   - Or she signs in with the shared `Onyxcfo` GitHub account.
-3. **Connect GitHub to Claude.** Each person goes to https://claude.ai/connect-github once and
-   approves the Claude GitHub App for this repo.
+2. **GitHub access to this repo.** The repo is `onyxcfo/engagement-letter-edits`. Steven and
+   Josephine both use the shared `Onyxcfo` GitHub login, so no extra GitHub setup is needed.
+   (If you ever want separate logins, Josephine can create her own GitHub account and Steven can
+   add her under **Settings → Collaborators → Add people** with *Write* access.)
+3. **Connect GitHub to Claude.** If Josephine's Claude login isn't connected to GitHub yet, she goes
+   to https://claude.ai/connect-github once and signs in with the shared `Onyxcfo` account.
 
 ## Starting a session
 
