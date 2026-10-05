@@ -97,3 +97,20 @@ For a new client letter, follow the `new-engagement-letter` skill in `.claude/sk
   sometimes make edits themselves. If they ask for "the change to drop in", give them old → new text
   blocks they can paste.
 - Write for non-programmers. Say what changed in the letter, not what changed in the XML.
+
+## Conventions added Oct 2026 (from the Swysh Den and AJAC letters)
+
+- **No em-dashes in the Section 1 proposal prose.** Use commas, parentheses, or colons instead
+  (em-dashes read as AI-written). Compound hyphens (day-to-day, perform-and-review) are fine.
+- **Steven's layout** (see the AJAC letter): Section 1 opens with a tailored paragraph, then an
+  "Initial priorities:" list, then the ongoing controller/CFO services. Bullets end with periods.
+- **ONYX does NOT do tax work and does NOT file any tax returns.** ONYX hands the books and schedules
+  to the client's tax preparer, who files. ONYX only *supports* audits (provides information).
+- New clients get a **retainer** (amount set after reviewing the books unless told otherwise).
+- Hour-estimate tables are usually replaced with "billed hourly as incurred" wording.
+- Use **"dba"** consistently (not "d/b/a").
+- Client cover emails: warm, plain, short, no em-dashes. Reference the conversation, attach the
+  letter, offer to revise, and offer to send it for **electronic signature**. Lead with team
+  continuity and flexibility, not price.
+- Template fixes already applied: evergreen clause unbolded; stray "the" removed before
+  `[identify the work product]` (so "the books and supporting schedules" no longer doubles "the").

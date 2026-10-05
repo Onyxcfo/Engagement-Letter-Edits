@@ -291,6 +291,10 @@ state of `Onyx_Engagement_Letter_HOURLY.docx` and `Onyx_Engagement_Letter_FIXED.
 - **Governance placeholder removed.** The `[Insert Governance Group Name] and Management` line in the
   address block was deleted.
 
+- **Opening clause unbolded; doubled "the" fixed (Oct 2026).** In both templates the evergreen /
+  amendment clause in the opening paragraph is no longer bold, and the stray "the" before
+  `[identify the work product]` was removed so filling it in no longer produces "the the".
+
 > **Note on the Korman client letter.** `Onyx_Engagement_Letter_Korer_HOURLY.docx` is a
 > **signed, executed** client letter tailored from the hourly template (FY2026 engagement, 2024/2025
 > catch-up, no cash access, $3,000 retainer). It is a client deliverable, not a template — leave it
