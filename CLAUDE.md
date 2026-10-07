@@ -36,6 +36,8 @@ For a new client letter, follow the `new-engagement-letter` skill in `.claude/sk
 - Rates are guaranteed only **through December 31 of the current year**. Fill the "Billing rates
   guaranteed through [Insert date]" line with Dec 31 of the letter's year.
 - Current hourly rates: Staff Accountant $100, Controller $185, CFO $250.
+- The retainer is applied to the **first** invoice, not the final one (both templates say so as of
+  Oct 2026). Any unapplied balance carries forward.
 - Retainer and time-estimate tables are **optional**. Ask before filling or removing them. Steven has
   often removed the hour estimates, and sometimes the retainer. If you remove the time estimates,
   reword the fee paragraph so it no longer refers to them.

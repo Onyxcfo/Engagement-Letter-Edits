@@ -288,6 +288,11 @@ state of `Onyx_Engagement_Letter_HOURLY.docx` and `Onyx_Engagement_Letter_FIXED.
   oversight · Review & audit readiness · CFO Level Advisory* (replaces the earlier single line).
 - **Section labels added.** "Section 1" over "What we'll do for you" and "Section 2" over "Terms and
   Conditions."
+- **Retainer applied to the first invoice (Oct 2026).** The Retainer paragraph in both templates now says
+  the Retainer is applied to ONYX's **first** invoice (was "final invoice"), with any unapplied balance
+  carried forward to the following invoices and refunded if unused at the end of the engagement.
+  The possessory-security-interest sentence is unchanged. Per Steven. Note: the AJAC/George Brazil
+  letter sent on Oct 5, 2026 still carries the old "final invoice" wording.
 - **Governance placeholder removed.** The `[Insert Governance Group Name] and Management` line in the
   address block was deleted.
 
