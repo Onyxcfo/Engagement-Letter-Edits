@@ -912,3 +912,6 @@ Each slot lists: id, where it sits, the George Brazil (GB) original text (one li
     > Prepared for AJAC, Inc. dba George Brazil
     > Marc Erpenbeck, President
 
+
+## team.r5c0 to team.r6c3 (optional)
+- where: slide 5 team table, extra rows. Include team.r5c* (and team.r6c*) only when the team has more than four rows; the builder adds the rows and tightens row heights to 0.7in, so keep each Responsibilities cell to three lines (about 190 characters).

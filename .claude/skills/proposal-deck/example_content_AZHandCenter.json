@@ -16,7 +16,7 @@
    "id": "cover.client_addr",
    "lines": [
     "370 E Virginia Ave, Ste 100, Phoenix, AZ 85004",
-    "Attn: Mark Williamson, [Title]"
+    "Attn: Mark Williamson, CFO"
    ]
   },
   {
@@ -30,7 +30,7 @@
    "lines": [
     "October 7, 2026",
     "",
-    "Mark Williamson, [Title]",
+    "Mark Williamson, CFO",
     "Arizona Center for Hand to Shoulder Surgery",
     "370 E Virginia Ave, Ste 100",
     "Phoenix, AZ 85004"
@@ -40,8 +40,8 @@
    "id": "intro.body",
    "lines": [
     "Dear Mark,",
-    "Thank you for the time you gave us on our October 5 call. This proposal accompanies the enclosed engagement letter and describes how Onyx Accounting Group would support Arizona Center for Hand to Shoulder Surgery as you reduce your hours.",
-    "We have organized it around what we heard. The first priority is continuity: a consistent senior finance contact for the physicians, knowledge transfer from you, and a monthly close that stays on track across all three entities. Behind that sits the work that needs controller and CFO judgment: physician compensation and the mid-month bonus, revenue-cycle and borrowing-base reporting, less manual work between eClinicalWorks, payroll and QuickBooks Online, and an automation roadmap with review controls.",
+    "Thank you for the time you gave us on our October 5 call. This proposal accompanies the enclosed engagement letter and describes how Onyx Accounting Group would support Arizona Center for Hand to Shoulder Surgery as you move toward retirement.",
+    "We have organized it around what we heard. The first priority is continuity: a consistent senior finance contact for the physicians, knowledge transfer from you before you retire, and a monthly close that stays on track across all three entities. Behind that sits the work that needs controller and CFO judgment: physician compensation and the mid-month bonus, revenue-cycle and borrowing-base reporting, less manual work between eClinicalWorks, payroll and QuickBooks Online, and an automation roadmap with review controls.",
     "Our fees are hourly at the rates in Section 05. You pay for the hours worked, and you can start with CFO plus controller, controller-led or staff support and change the mix by email. There is no minimum term.",
     "We would welcome the opportunity to work with your team and are glad to walk through any part of this proposal before October 16."
    ]
@@ -121,7 +121,7 @@
   {
    "id": "who.intro",
    "lines": [
-    "Onyx Accounting Group is a Scottsdale, Arizona accounting firm that provides bookkeeping, controller and CFO services to privately held companies. We work inside our clients' own systems, including QuickBooks Online, as an extension of their finance team, and we are built to cover the full range from transaction detail to the owner's table."
+    "Onyx Accounting Group is a Scottsdale, Arizona accounting firm that provides bookkeeping, controller and CFO services to privately held companies. We are an Elite Level Partner of Intuit (QuickBooks Online) and work inside our clients' own systems as an extension of their finance team, covering the full range from transaction detail to the owner's table."
    ]
   },
   {
@@ -211,7 +211,7 @@
   {
    "id": "team.intro",
    "lines": [
-    "The principal leads the engagement and stays on it as your relationship lead. An ONYX controller, named at kickoff, leads the controller work. Staff support is assigned as the work settles, and the mix is adjusted with you."
+    "The principal leads the engagement and stays on it as your relationship lead. Lisa Danforth, CPA, provides CFO-level support, and Jessica Bumphus leads the controller work. Staff support is assigned as the work settles, and the mix is adjusted with you."
    ]
   },
   {
@@ -230,7 +230,7 @@
   {
    "id": "team.r1c2",
    "lines": [
-    "Overall direction and quality. CFO-level work: close design, board and lender reporting, budgeting and forecasting, borrowing-base and covenant matters, direction to the finance team."
+    "Overall direction and quality. CFO-level work: close design, board and lender reporting, budgeting and forecasting, covenant matters, direction to the finance team."
    ]
   },
   {
@@ -242,33 +242,33 @@
   {
    "id": "team.r2c0",
    "lines": [
-    "Josephine Mack",
-    "Chief of Staff & Client Relations"
+    "Lisa Danforth, CPA",
+    "CFO"
    ]
   },
   {
    "id": "team.r2c1",
    "lines": [
-    "Client relations and staffing"
+    "CFO support"
    ]
   },
   {
    "id": "team.r2c2",
    "lines": [
-    "Scheduling, staffing and client service. Your contact for anything about the engagement itself: scope changes, invoices, access and timing."
+    "CFO-level support alongside Steven: management and board reporting, physician compensation review, budgeting and forecasting, a second senior contact for the physicians."
    ]
   },
   {
    "id": "team.r2c3",
    "lines": [
-    "Throughout the engagement."
+    "Weekly during the first 90 days, then as needed."
    ]
   },
   {
    "id": "team.r3c0",
    "lines": [
-    "ONYX Controller",
-    "To be named at kickoff"
+    "Jessica Bumphus",
+    "Controller"
    ]
   },
   {
@@ -280,7 +280,7 @@
   {
    "id": "team.r3c2",
    "lines": [
-    "Leads the monthly close, reviews the internal team's reconciliations and entries, supports physician compensation and revenue-cycle reporting, and drives the systems and automation work."
+    "Leads the monthly close, reviews the team's reconciliations and entries, supports physician compensation and revenue-cycle reporting, drives the systems and automation work."
    ]
   },
   {
@@ -292,25 +292,26 @@
   {
    "id": "team.r4c0",
    "lines": [
-    "ONYX Staff Accountant(s)"
+    "Josephine Mack",
+    "Chief of Staff & Client Relations"
    ]
   },
   {
    "id": "team.r4c1",
    "lines": [
-    "Staff support"
+    "Client relations and staffing"
    ]
   },
   {
    "id": "team.r4c2",
    "lines": [
-    "Reconciliations, journal entries and month-end schedules, AP and payroll journal support, audit and tax request lists and data work, all under controller review."
+    "Scheduling, staffing and client service. Your contact for anything about the engagement itself: scope changes, invoices, access and timing."
    ]
   },
   {
    "id": "team.r4c3",
    "lines": [
-    "As needed or requested."
+    "Throughout the engagement."
    ]
   },
   {
@@ -329,7 +330,7 @@
    "id": "und.company",
    "lines": [
     "**The practice.** Physician-owned hand and trauma practice since 2000: 15 surgeons, five clinics with therapy suites, 24/7 trauma call at 17 hospitals. Revenue over $32 million.",
-    "**Finance team.** Mark Williamson, in transition. A supervisory accountant, three staff and an international AP resource.",
+    "**Finance team.** Mark Williamson, CFO, retiring. A supervisory accountant, three staff and an international AP resource.",
     "**Systems.** QuickBooks Online with physician classes, eClinicalWorks for EMR and billing, Paylocity payroll (Paychex under evaluation).",
     "**Banking and structure.** Lines of credit with borrowing-base reporting. Entities: the practice, a surgery center acquired in 2024 and Arizona Pharmacy Consultants."
    ]
@@ -343,7 +344,7 @@
   {
    "id": "und.need2",
    "lines": [
-    "Controller-led close and operational finance, with knowledge transfer from Mark before he steps away."
+    "Controller-led close and operational finance, with knowledge transfer from Mark before he retires."
    ]
   },
   {
@@ -1072,7 +1073,31 @@
    "lines": [
     "Prepared for",
     "Arizona Center for Hand to Shoulder Surgery",
-    "Mark Williamson, [Title]"
+    "Mark Williamson, CFO"
+   ]
+  },
+  {
+   "id": "team.r5c0",
+   "lines": [
+    "ONYX Staff Accountant(s)"
+   ]
+  },
+  {
+   "id": "team.r5c1",
+   "lines": [
+    "Staff support"
+   ]
+  },
+  {
+   "id": "team.r5c2",
+   "lines": [
+    "Reconciliations, journal entries and month-end schedules, AP and payroll journal support, audit and tax request lists and data work, all under controller review."
+   ]
+  },
+  {
+   "id": "team.r5c3",
+   "lines": [
+    "As needed or requested."
    ]
   }
  ]

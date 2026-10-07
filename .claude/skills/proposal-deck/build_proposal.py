@@ -96,9 +96,11 @@ def replace_logo(si, idx, plate=None):
     parent.remove(pic._element)
     if logo:
         new = sl.shapes.add_picture(logo, left, top, height=h)
-        if new.width > w:  # keep inside the old box
-            new.width, new.height = w, int(h * w / new.width)
-        new.left = left + (w - new.width) // 2 if plate else left
+        maxw = w if plate else Inches(4.9)  # the cover has room to the right of the logo box
+        if new.width > maxw:
+            new.height = int(new.height * maxw / new.width); new.width = maxw
+        if plate:
+            new.left = left + (w - new.width) // 2; new.top = top + (h - new.height) // 2
         new.name = 'Client logo'
     else:
         tb = sl.shapes.add_textbox(left, top, w, h)
@@ -141,8 +143,20 @@ for n, (h, b) in enumerate([(17, 18), (19, 20), (21, 22), (23, 24)], 1):
     slot(4, h, f'who.staff{n}.head'); slot(4, b, f'who.staff{n}.body')
 # ---------- slide 5 team
 slot(5, 2, 'team.intro')
-for r in range(1, 5):
+tbl = S[4][3].table
+extra = [r for r in (5, 6) if f'team.r{r}c0' in C]
+for r in extra:
+    tbl._tbl.append(copy.deepcopy(tbl._tbl.tr_lst[-1]))
+for r in range(1, 5 + len(extra)):
     for c in range(4): cell(5, 3, r, c, f'team.r{r}c{c}')
+if extra:  # keep the taller table clear of the footnote
+    S[4][3].top = Inches(2.25)
+    tbl.rows[0].height = Inches(0.4)
+    for r in range(1, len(tbl.rows)): tbl.rows[r].height = Inches(0.6)
+    for r in range(len(tbl.rows)):
+        for c in range(4):
+            for para in tbl.cell(r, c).text_frame.paragraphs:
+                for run in para.runs: run.font.size = Pt(10.5)
 slot(5, 4, 'team.foot')
 # ---------- slide 6 understanding
 slot(6, 1, 'und.title')
@@ -206,6 +220,14 @@ set_lines(S[12][33].text_frame, ['Steven Nikolov, Principal  |  steven@onyxcfo.c
 slot(14, 1, 'close.thanks'); slot(14, 5, 'close.prepared')
 replace_logo(14, 4, plate=True)
 
+# house style: Josephine's title uses an ampersand everywhere
+for sl in p.slides:
+    for sh in sl.shapes:
+        if sh.has_text_frame:
+            for para in sh.text_frame.paragraphs:
+                for r in para.runs:
+                    if 'Chief of Staff and Client Relations' in r.text:
+                        r.text = r.text.replace('Chief of Staff and Client Relations', 'Chief of Staff & Client Relations')
 # ---------- layout footer, notes, properties
 for layout in p.slide_layouts:
     for sh in layout.shapes:
