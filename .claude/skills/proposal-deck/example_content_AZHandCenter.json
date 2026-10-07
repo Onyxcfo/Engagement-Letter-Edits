@@ -1,0 +1,1079 @@
+{
+ "slots": [
+  {
+   "id": "cover.date",
+   "lines": [
+    "October 7, 2026"
+   ]
+  },
+  {
+   "id": "cover.client_name",
+   "lines": [
+    "Arizona Center for Hand to Shoulder Surgery"
+   ]
+  },
+  {
+   "id": "cover.client_addr",
+   "lines": [
+    "370 E Virginia Ave, Ste 100, Phoenix, AZ 85004",
+    "Attn: Mark Williamson, [Title]"
+   ]
+  },
+  {
+   "id": "intro.title",
+   "lines": [
+    "A note to Mark and the physicians"
+   ]
+  },
+  {
+   "id": "intro.addr",
+   "lines": [
+    "October 7, 2026",
+    "",
+    "Mark Williamson, [Title]",
+    "Arizona Center for Hand to Shoulder Surgery",
+    "370 E Virginia Ave, Ste 100",
+    "Phoenix, AZ 85004"
+   ]
+  },
+  {
+   "id": "intro.body",
+   "lines": [
+    "Dear Mark,",
+    "Thank you for the time you gave us on our October 5 call. This proposal accompanies the enclosed engagement letter and describes how Onyx Accounting Group would support Arizona Center for Hand to Shoulder Surgery as you reduce your hours.",
+    "We have organized it around what we heard. The first priority is continuity: a consistent senior finance contact for the physicians, knowledge transfer from you, and a monthly close that stays on track across all three entities. Behind that sits the work that needs controller and CFO judgment: physician compensation and the mid-month bonus, revenue-cycle and borrowing-base reporting, less manual work between eClinicalWorks, payroll and QuickBooks Online, and an automation roadmap with review controls.",
+    "Our fees are hourly at the rates in Section 05. You pay for the hours worked, and you can start with CFO plus controller, controller-led or staff support and change the mix by email. There is no minimum term.",
+    "We would welcome the opportunity to work with your team and are glad to walk through any part of this proposal before October 16."
+   ]
+  },
+  {
+   "id": "contents.title1",
+   "lines": [
+    "Who we are"
+   ]
+  },
+  {
+   "id": "contents.desc1",
+   "lines": [
+    "The firm, how we staff an engagement, and your engagement team"
+   ]
+  },
+  {
+   "id": "contents.title2",
+   "lines": [
+    "What we can help with"
+   ]
+  },
+  {
+   "id": "contents.desc2",
+   "lines": [
+    "Our understanding of the practice, the services proposed, and how we will work together"
+   ]
+  },
+  {
+   "id": "contents.title3",
+   "lines": [
+    "Engagement timeline"
+   ]
+  },
+  {
+   "id": "contents.desc3",
+   "lines": [
+    "Key dates from kickoff through April 2027"
+   ]
+  },
+  {
+   "id": "contents.title4",
+   "lines": [
+    "30/60/90-day plan"
+   ]
+  },
+  {
+   "id": "contents.desc4",
+   "lines": [
+    "What happens in each phase and what you receive at each checkpoint"
+   ]
+  },
+  {
+   "id": "contents.title5",
+   "lines": [
+    "Proposed fees"
+   ]
+  },
+  {
+   "id": "contents.desc5",
+   "lines": [
+    "Hourly rates, billing terms and how we manage the budget"
+   ]
+  },
+  {
+   "id": "contents.title6",
+   "lines": [
+    "Why ONYX and next steps"
+   ]
+  },
+  {
+   "id": "contents.desc6",
+   "lines": [
+    "What a team gives you that a single hire cannot, and how we start"
+   ]
+  },
+  {
+   "id": "who.intro",
+   "lines": [
+    "Onyx Accounting Group is a Scottsdale, Arizona accounting firm that provides bookkeeping, controller and CFO services to privately held companies. We work inside our clients' own systems, including QuickBooks Online, as an extension of their finance team, and we are built to cover the full range from transaction detail to the owner's table."
+   ]
+  },
+  {
+   "id": "who.item1.head",
+   "lines": [
+    "Big-firm background"
+   ]
+  },
+  {
+   "id": "who.item1.body",
+   "lines": [
+    "Our leadership held Director and Manager roles at top 10 national accounting firms and brings that standard of review and documentation to privately held companies."
+   ]
+  },
+  {
+   "id": "who.item2.head",
+   "lines": [
+    "Industry experience"
+   ]
+  },
+  {
+   "id": "who.item2.body",
+   "lines": [
+    "Construction and the trades, real estate and property management, professional services, distribution and retail, and hospitality."
+   ]
+  },
+  {
+   "id": "who.item3.head",
+   "lines": [
+    "Ownership structures"
+   ]
+  },
+  {
+   "id": "who.item3.body",
+   "lines": [
+    "Owner-led, private equity backed and family office companies, including lender, investor and audit reporting."
+   ]
+  },
+  {
+   "id": "who.staff1.head",
+   "lines": [
+    "Scottsdale team"
+   ]
+  },
+  {
+   "id": "who.staff1.body",
+   "lines": [
+    "Engagement leadership, the controller and CFO roles, every judgment call, and on-site time in Phoenix for onboarding and training."
+   ]
+  },
+  {
+   "id": "who.staff2.head",
+   "lines": [
+    "Supporting staff"
+   ]
+  },
+  {
+   "id": "who.staff2.body",
+   "lines": [
+    "Reconciliations, schedules and transaction support prepared on our systems by accountants with ten or more years of experience, and reviewed in Scottsdale."
+   ]
+  },
+  {
+   "id": "who.staff3.head",
+   "lines": [
+    "Perform and review"
+   ]
+  },
+  {
+   "id": "who.staff3.body",
+   "lines": [
+    "The person who prepares a number is never the person who approves it. Every reconciliation, journal entry and report is reviewed by a second accountant before it reaches you."
+   ]
+  },
+  {
+   "id": "who.staff4.head",
+   "lines": [
+    "One file, not one person"
+   ]
+  },
+  {
+   "id": "who.staff4.body",
+   "lines": [
+    "Procedures, the close checklist and the open-items list live in a shared file your team can see, so nothing depends on a single individual."
+   ]
+  },
+  {
+   "id": "team.intro",
+   "lines": [
+    "The principal leads the engagement and stays on it as your relationship lead. An ONYX controller, named at kickoff, leads the controller work. Staff support is assigned as the work settles, and the mix is adjusted with you."
+   ]
+  },
+  {
+   "id": "team.r1c0",
+   "lines": [
+    "Steven Nikolov",
+    "Principal & CFO"
+   ]
+  },
+  {
+   "id": "team.r1c1",
+   "lines": [
+    "Relationship lead and CFO"
+   ]
+  },
+  {
+   "id": "team.r1c2",
+   "lines": [
+    "Overall direction and quality. CFO-level work: close design, board and lender reporting, budgeting and forecasting, borrowing-base and covenant matters, direction to the finance team."
+   ]
+  },
+  {
+   "id": "team.r1c3",
+   "lines": [
+    "On site for kickoff. Weekly during the first 90 days, then at the monthly review and as needed."
+   ]
+  },
+  {
+   "id": "team.r2c0",
+   "lines": [
+    "Josephine Mack",
+    "Chief of Staff & Client Relations"
+   ]
+  },
+  {
+   "id": "team.r2c1",
+   "lines": [
+    "Client relations and staffing"
+   ]
+  },
+  {
+   "id": "team.r2c2",
+   "lines": [
+    "Scheduling, staffing and client service. Your contact for anything about the engagement itself: scope changes, invoices, access and timing."
+   ]
+  },
+  {
+   "id": "team.r2c3",
+   "lines": [
+    "Throughout the engagement."
+   ]
+  },
+  {
+   "id": "team.r3c0",
+   "lines": [
+    "ONYX Controller",
+    "To be named at kickoff"
+   ]
+  },
+  {
+   "id": "team.r3c1",
+   "lines": [
+    "ONYX controller"
+   ]
+  },
+  {
+   "id": "team.r3c2",
+   "lines": [
+    "Leads the monthly close, reviews the internal team's reconciliations and entries, supports physician compensation and revenue-cycle reporting, and drives the systems and automation work."
+   ]
+  },
+  {
+   "id": "team.r3c3",
+   "lines": [
+    "Weekly. On site in Phoenix for onboarding and training, remote otherwise."
+   ]
+  },
+  {
+   "id": "team.r4c0",
+   "lines": [
+    "ONYX Staff Accountant(s)"
+   ]
+  },
+  {
+   "id": "team.r4c1",
+   "lines": [
+    "Staff support"
+   ]
+  },
+  {
+   "id": "team.r4c2",
+   "lines": [
+    "Reconciliations, journal entries and month-end schedules, AP and payroll journal support, audit and tax request lists and data work, all under controller review."
+   ]
+  },
+  {
+   "id": "team.r4c3",
+   "lines": [
+    "As needed or requested."
+   ]
+  },
+  {
+   "id": "team.foot",
+   "lines": [
+    "Your team keeps approval authority over payments, vendors, payroll and physician compensation. ONYX works from view access to bank and loan accounts and from the access you grant in QuickBooks Online, eClinicalWorks reports and payroll."
+   ]
+  },
+  {
+   "id": "und.title",
+   "lines": [
+    "Our understanding of the practice"
+   ]
+  },
+  {
+   "id": "und.company",
+   "lines": [
+    "**The practice.** Physician-owned hand and trauma practice since 2000: 15 surgeons, five clinics with therapy suites, 24/7 trauma call at 17 hospitals. Revenue over $32 million.",
+    "**Finance team.** Mark Williamson, in transition. A supervisory accountant, three staff and an international AP resource.",
+    "**Systems.** QuickBooks Online with physician classes, eClinicalWorks for EMR and billing, Paylocity payroll (Paychex under evaluation).",
+    "**Banking and structure.** Lines of credit with borrowing-base reporting. Entities: the practice, a surgery center acquired in 2024 and Arizona Pharmacy Consultants."
+   ]
+  },
+  {
+   "id": "und.need1",
+   "lines": [
+    "Dependable finance leadership now, without waiting for another hire to ramp up."
+   ]
+  },
+  {
+   "id": "und.need2",
+   "lines": [
+    "Controller-led close and operational finance, with knowledge transfer from Mark before he steps away."
+   ]
+  },
+  {
+   "id": "und.need3",
+   "lines": [
+    "A consistent senior contact the physicians can trust and reach."
+   ]
+  },
+  {
+   "id": "und.need4",
+   "lines": [
+    "Less manual work between eClinicalWorks, payroll and QuickBooks Online, with review controls on any automation."
+   ]
+  },
+  {
+   "id": "und.need5",
+   "lines": [
+    "A path that can grow into broader CFO leadership: budgeting, board and lender reporting."
+   ]
+  },
+  {
+   "id": "und.date1.chip",
+   "lines": [
+    "Now"
+   ]
+  },
+  {
+   "id": "und.date1.text",
+   "lines": [
+    "Knowledge transfer from Mark"
+   ]
+  },
+  {
+   "id": "und.date2.chip",
+   "lines": [
+    "Dec"
+   ]
+  },
+  {
+   "id": "und.date2.text",
+   "lines": [
+    "Annual shareholder board meeting"
+   ]
+  },
+  {
+   "id": "und.date3.chip",
+   "lines": [
+    "Dec 31"
+   ]
+  },
+  {
+   "id": "und.date3.text",
+   "lines": [
+    "Year-end close, then the CBIZ tax package"
+   ]
+  },
+  {
+   "id": "und.date4.chip",
+   "lines": [
+    "Monthly"
+   ]
+  },
+  {
+   "id": "und.date4.text",
+   "lines": [
+    "Close, mid-month physician bonus and revenue-cycle analytics continue uninterrupted"
+   ]
+  },
+  {
+   "id": "und.date5.chip",
+   "lines": [
+    "Mar 1"
+   ]
+  },
+  {
+   "id": "und.date5.text",
+   "lines": [
+    "Benefits renewal, with Paychex under review"
+   ]
+  },
+  {
+   "id": "und.foot",
+   "lines": [
+    "Based on our October 5 call with Mark and the job description provided afterward. Details are confirmed during onboarding."
+   ]
+  },
+  {
+   "id": "svc.title",
+   "lines": [
+    "Services proposed for the practice"
+   ]
+  },
+  {
+   "id": "svc.card1.head",
+   "lines": [
+    "Controller services"
+   ]
+  },
+  {
+   "id": "svc.card1.body",
+   "lines": [
+    "Lead the monthly close on an agreed calendar",
+    "Review reconciliations and entries prepared by the internal team",
+    "Support physician compensation: class allocations and the mid-month bonus",
+    "Document close procedures and controls",
+    "Guide the internal team on AP, AR and the ledger; day-to-day contact"
+   ]
+  },
+  {
+   "id": "svc.card2.head",
+   "lines": [
+    "Board and lender reporting"
+   ]
+  },
+  {
+   "id": "svc.card2.body",
+   "lines": [
+    "Monthly reporting and analysis by entity for the physicians and shareholders",
+    "Borrowing-base and covenant reporting to your lenders",
+    "Revenue-cycle analysis: charges, collection rates, denials",
+    "Results presented to the executive board and at the December meeting"
+   ]
+  },
+  {
+   "id": "svc.card3.head",
+   "lines": [
+    "CFO advisory"
+   ]
+  },
+  {
+   "id": "svc.card3.body",
+   "lines": [
+    "Budgeting, forecasting and variance analysis",
+    "Relationship lead and finance contact for the physicians",
+    "Accounting policy and reporting structure",
+    "Direction to the finance team as it is rebuilt",
+    "Coordination with CBIZ, counsel, USI and your plan advisors"
+   ]
+  },
+  {
+   "id": "svc.card4.head",
+   "lines": [
+    "Systems and process"
+   ]
+  },
+  {
+   "id": "svc.card4.body",
+   "lines": [
+    "Review the QuickBooks class structure, workflows and controls",
+    "Reduce manual steps between eClinicalWorks, payroll and the ledger",
+    "Automation roadmap for AP, payroll journals, close checklists and KPI dashboards",
+    "Review controls on every automated output"
+   ]
+  },
+  {
+   "id": "svc.card5.head",
+   "lines": [
+    "Audit, tax and payroll support"
+   ]
+  },
+  {
+   "id": "svc.card5.body",
+   "lines": [
+    "Provide information for audits and regulatory reviews; ONYX gives no opinion or assurance",
+    "Organize everything CBIZ needs for the returns; ONYX does not prepare or file tax returns",
+    "Support payroll journals and the evaluation of Paychex"
+   ]
+  },
+  {
+   "id": "svc.foot",
+   "lines": [
+    "The scope mirrors Section 1 of the enclosed engagement letter. Services can be added, reduced or paused by email."
+   ]
+  },
+  {
+   "id": "work.card1.head",
+   "lines": [
+    "How ONYX operates"
+   ]
+  },
+  {
+   "id": "work.card1.body",
+   "lines": [
+    "Work inside your QuickBooks Online, with view access to bank and loan accounts",
+    "Perform and review on every reconciliation, entry and report",
+    "Weekly progress and budget update during the first 90 days, then a monthly review with Mark",
+    "On site in Phoenix for onboarding and training; remote for routine work",
+    "Procedures, close checklist and open items kept in one shared file",
+    "Automation used where it saves your team time, with human review of every material output"
+   ]
+  },
+  {
+   "id": "work.card2.head",
+   "lines": [
+    "What stays with the practice"
+   ]
+  },
+  {
+   "id": "work.card2.body",
+   "lines": [
+    "Approval of every payment, wire, new vendor, payroll change and bonus",
+    "Signing authority and bank access; ONYX does not move funds",
+    "Review and approval of bank statements and reconciliations",
+    "Tax filings, through CBIZ",
+    "Patient billing, coding and payer compliance, owned by the revenue-cycle team; ONYX reconciles and reports",
+    "A primary point of contact, with Mark and the staff available for onboarding"
+   ]
+  },
+  {
+   "id": "work.card3.head",
+   "lines": [
+    "Outside this proposal"
+   ]
+  },
+  {
+   "id": "work.card3.body",
+   "lines": [
+    "Preparing or filing tax returns",
+    "Performing audits; we support them with information and give no opinion or assurance",
+    "Forensic or fraud investigation; anything irregular is escalated to you in writing and handled as a separate engagement",
+    "Signing authority, moving money, legal advice"
+   ]
+  },
+  {
+   "id": "work.cadence",
+   "lines": [
+    "**Communication.** Weekly progress and budget update during the first 90 days. Monthly review of results with Mark; executive board as needed; shareholder meeting each December. Quarterly review of scope, staffing mix and fees."
+   ]
+  },
+  {
+   "id": "work.foot",
+   "lines": [
+    "These responsibilities match the \"How we'll work together\" section of the engagement letter."
+   ]
+  },
+  {
+   "id": "tl.title",
+   "lines": [
+    "November 2026 through April 2027"
+   ]
+  },
+  {
+   "id": "tl.months",
+   "lines": [
+    "Nov 2026",
+    "Dec",
+    "Jan 2027",
+    "Feb",
+    "Mar",
+    "Apr"
+   ]
+  },
+  {
+   "id": "tl.rows",
+   "lines": [
+    "Kickoff, access and knowledge transfer from Mark | 0.15 | 1.0 | navy",
+    "Monthly close led and reviewed by ONYX | 0.5 | 6.0 | navy",
+    "Physician bonus and revenue-cycle reporting | 0.5 | 6.0 | navy",
+    "Borrowing-base package and lender reporting | 1.0 | 6.0 | navy",
+    "QuickBooks classes and EMR-to-ledger mapping | 1.3 | 3.5 | navy",
+    "December shareholder meeting (date to confirm) | 1.4 | 1.65 | RED",
+    "Year-end close and retirement-plan year-end data | 2.0 | 3.2 | navy",
+    "Automation roadmap with review controls | 2.3 | 5.0 | navy",
+    "2027 budget and CFO reporting rhythm | 1.5 | 6.0 | navy",
+    "Benefits renewal (Mar 1) | 4.0 | 4.25 | RED"
+   ]
+  },
+  {
+   "id": "tl.checkpoints",
+   "lines": [
+    "Kickoff | 0.15",
+    "Day 30 review | 1.1",
+    "Day 60 review | 2.1",
+    "Day 90 review | 3.1",
+    "Steady state | 5.85"
+   ]
+  },
+  {
+   "id": "tl.foot",
+   "lines": [
+    "Assumes a start in early November 2026 with system access from day one. Red bars are fixed dates. Dates are confirmed with Mark in the first week."
+   ]
+  },
+  {
+   "id": "p90.phase1.range",
+   "lines": [
+    "Days 1 to 30"
+   ]
+  },
+  {
+   "id": "p90.phase1.name",
+   "lines": [
+    "Stabilize"
+   ]
+  },
+  {
+   "id": "p90.phase1.activities",
+   "lines": [
+    "Kickoff with Mark; access to QuickBooks, eClinicalWorks, payroll and bank",
+    "Capture Mark's recurring tasks, files, deadlines and bank contacts",
+    "Document the close, physician compensation and borrowing-base reporting",
+    "Take over review of the close and the mid-month bonus process"
+   ]
+  },
+  {
+   "id": "p90.phase1.outcomes",
+   "lines": [
+    "Close calendar and task list documented",
+    "October close reviewed, November close under way",
+    "Open-items tracker in place"
+   ]
+  },
+  {
+   "id": "p90.phase2.range",
+   "lines": [
+    "Days 31 to 60"
+   ]
+  },
+  {
+   "id": "p90.phase2.name",
+   "lines": [
+    "Standardize"
+   ]
+  },
+  {
+   "id": "p90.phase2.activities",
+   "lines": [
+    "Lead the November close and deliver management reporting",
+    "Prepare results for the December shareholder meeting",
+    "Tie revenue-cycle activity to the ledger; deliver the monthly analysis",
+    "Map eClinicalWorks, payroll and QuickBooks flows; log gaps with owners"
+   ]
+  },
+  {
+   "id": "p90.phase2.outcomes",
+   "lines": [
+    "First ONYX-reviewed close and reporting pack",
+    "Shareholder meeting package",
+    "Process map with gaps and owners"
+   ]
+  },
+  {
+   "id": "p90.phase3.range",
+   "lines": [
+    "Days 61 to 90"
+   ]
+  },
+  {
+   "id": "p90.phase3.name",
+   "lines": [
+    "Improve"
+   ]
+  },
+  {
+   "id": "p90.phase3.activities",
+   "lines": [
+    "Year-end close; year-end data to your retirement-plan advisors",
+    "QuickBooks class and control review, all entities",
+    "Automation roadmap with review controls; Paychex support",
+    "90-day review with Mark: results, staffing mix and the plan for 2027"
+   ]
+  },
+  {
+   "id": "p90.phase3.outcomes",
+   "lines": [
+    "Documented close procedures",
+    "Year-end books ready for CBIZ",
+    "Automation roadmap and staffing agreed"
+   ]
+  },
+  {
+   "id": "p90.day91",
+   "lines": [
+    "**Day 91 onward.** Monthly close and reporting rhythm, borrowing-base reporting, revenue-cycle analysis, budget versus actual, CFO support for the executive board and lenders. The staffing mix is adjusted by email as needs change."
+   ]
+  },
+  {
+   "id": "del.r1c0",
+   "lines": [
+    "Weekly, first 90 days"
+   ]
+  },
+  {
+   "id": "del.r1c1",
+   "lines": [
+    "Progress and budget update; open-items tracker with owners and dates"
+   ]
+  },
+  {
+   "id": "del.r1c2",
+   "lines": [
+    "Controller"
+   ]
+  },
+  {
+   "id": "del.r1c3",
+   "lines": [
+    "Principal"
+   ]
+  },
+  {
+   "id": "del.r2c0",
+   "lines": [
+    "Biweekly"
+   ]
+  },
+  {
+   "id": "del.r2c1",
+   "lines": [
+    "Payroll journal support for each Paylocity run; AP support for the internal team as requested"
+   ]
+  },
+  {
+   "id": "del.r2c2",
+   "lines": [
+    "Staff"
+   ]
+  },
+  {
+   "id": "del.r2c3",
+   "lines": [
+    "Controller"
+   ]
+  },
+  {
+   "id": "del.r3c0",
+   "lines": [
+    "Monthly"
+   ]
+  },
+  {
+   "id": "del.r3c1",
+   "lines": [
+    "Close completed on the agreed calendar; reconciliations and journal entries reviewed; management reporting by entity; support for the physician bonus calculations; revenue-cycle analysis"
+   ]
+  },
+  {
+   "id": "del.r3c2",
+   "lines": [
+    "Staff and Controller"
+   ]
+  },
+  {
+   "id": "del.r3c3",
+   "lines": [
+    "Controller and Principal"
+   ]
+  },
+  {
+   "id": "del.r4c0",
+   "lines": [
+    "Quarterly"
+   ]
+  },
+  {
+   "id": "del.r4c1",
+   "lines": [
+    "Review of scope, staffing mix and fees; lender package on the bank's schedule"
+   ]
+  },
+  {
+   "id": "del.r4c2",
+   "lines": [
+    "Controller"
+   ]
+  },
+  {
+   "id": "del.r4c3",
+   "lines": [
+    "Principal"
+   ]
+  },
+  {
+   "id": "del.r5c0",
+   "lines": [
+    "Annually"
+   ]
+  },
+  {
+   "id": "del.r5c1",
+   "lines": [
+    "Year-end close; December shareholder meeting results; year-end data for your retirement-plan advisors; tax package for CBIZ; budget and forecast for the coming year"
+   ]
+  },
+  {
+   "id": "del.r5c2",
+   "lines": [
+    "Controller"
+   ]
+  },
+  {
+   "id": "del.r5c3",
+   "lines": [
+    "Principal"
+   ]
+  },
+  {
+   "id": "del.r6c0",
+   "lines": [
+    "Ongoing"
+   ]
+  },
+  {
+   "id": "del.r6c1",
+   "lines": [
+    "Procedures, close checklist and chart of accounts kept current in one shared file; knowledge captured from Mark"
+   ]
+  },
+  {
+   "id": "del.r6c2",
+   "lines": [
+    "Controller"
+   ]
+  },
+  {
+   "id": "del.r6c3",
+   "lines": [
+    "Principal"
+   ]
+  },
+  {
+   "id": "del.foot",
+   "lines": [
+    "Every deliverable is prepared by one person and reviewed by another before it reaches you. Reports are tied to the ledger in QuickBooks Online."
+   ]
+  },
+  {
+   "id": "fees.intro",
+   "lines": [
+    "Fees are hourly, billed as incurred. You pay for the hours worked, and the mix of staff, controller and CFO time is set with you and changed by email."
+   ]
+  },
+  {
+   "id": "fees.r1c0",
+   "lines": [
+    "Staff Accountant"
+   ]
+  },
+  {
+   "id": "fees.r1c1",
+   "lines": [
+    "$100"
+   ]
+  },
+  {
+   "id": "fees.r1c2",
+   "lines": [
+    "Reconciliations, journal entries and month-end schedules, AP and payroll journal support, audit and tax request lists"
+   ]
+  },
+  {
+   "id": "fees.r2c0",
+   "lines": [
+    "Controller"
+   ]
+  },
+  {
+   "id": "fees.r2c1",
+   "lines": [
+    "$185"
+   ]
+  },
+  {
+   "id": "fees.r2c2",
+   "lines": [
+    "Monthly close, review of the team's work, physician compensation, revenue-cycle and lender reporting, systems work"
+   ]
+  },
+  {
+   "id": "fees.r3c0",
+   "lines": [
+    "CFO"
+   ]
+  },
+  {
+   "id": "fees.r3c1",
+   "lines": [
+    "$250"
+   ]
+  },
+  {
+   "id": "fees.r3c2",
+   "lines": [
+    "Relationship lead for the physicians, budgeting and forecasting, board and lender matters, accounting policy, direction to the finance team"
+   ]
+  },
+  {
+   "id": "fees.note",
+   "lines": [
+    "Rates are guaranteed through December 31, 2026. After that date, rates change only as agreed in writing."
+   ]
+  },
+  {
+   "id": "fees.billing",
+   "lines": [
+    "Invoices every two weeks with time detail by person and task; net 7 days",
+    "Retainer, set after we review the books, applied to the final invoice",
+    "Out-of-pocket costs such as travel, meals and lodging billed at cost",
+    "No minimum term; either party may end the engagement on 30 days' written notice"
+   ]
+  },
+  {
+   "id": "fees.budget",
+   "lines": [
+    "Weekly progress and budget update during onboarding",
+    "We advise you before any work that would substantially increase fees",
+    "Scope and staffing changes take effect once confirmed by email; no new letter or signature"
+   ]
+  },
+  {
+   "id": "fees.notincl",
+   "lines": [
+    "**Not included.** Tax return preparation and filing, which CBIZ handles, patient billing and coding, and performing audits, which we support but do not perform. Full terms are in the enclosed engagement letter."
+   ]
+  },
+  {
+   "id": "why.sub",
+   "lines": [
+    "Compared with a single full-time hire"
+   ]
+  },
+  {
+   "id": "why.item1.head",
+   "lines": [
+    "Continuity"
+   ]
+  },
+  {
+   "id": "why.item1.body",
+   "lines": [
+    "You work with a team, not one individual. If a person changes, the file, the procedures and your senior contact do not."
+   ]
+  },
+  {
+   "id": "why.item2.head",
+   "lines": [
+    "Depth"
+   ]
+  },
+  {
+   "id": "why.item2.body",
+   "lines": [
+    "CFO, controller and staff expertise under one engagement, with a built-in review process so the work is completed accurately and consistently."
+   ]
+  },
+  {
+   "id": "why.item3.head",
+   "lines": [
+    "Flexibility"
+   ]
+  },
+  {
+   "id": "why.item3.body",
+   "lines": [
+    "Start with CFO plus controller, controller-led or staff augmentation, and move between them by email. No penalties and no paperwork to redo."
+   ]
+  },
+  {
+   "id": "why.item4.head",
+   "lines": [
+    "Fit"
+   ]
+  },
+  {
+   "id": "why.item4.body",
+   "lines": [
+    "We work alongside your team, CBIZ and your bank, and we keep approvals with you. A stable close, multi-entity reporting and lender reporting in QuickBooks Online are what we do every day."
+   ]
+  },
+  {
+   "id": "next.step1.head",
+   "lines": [
+    "Review"
+   ]
+  },
+  {
+   "id": "next.step1.body",
+   "lines": [
+    "Share this proposal and the engagement letter with the physicians ahead of October 16. We are glad to join the meeting or a follow-up call."
+   ]
+  },
+  {
+   "id": "next.step2.head",
+   "lines": [
+    "Sign"
+   ]
+  },
+  {
+   "id": "next.step2.body",
+   "lines": [
+    "Sign the letter; we can send it for electronic signature. The retainer, set after we review the books, starts the work."
+   ]
+  },
+  {
+   "id": "next.step3.head",
+   "lines": [
+    "Grant access"
+   ]
+  },
+  {
+   "id": "next.step3.body",
+   "lines": [
+    "QuickBooks Online for each entity, eClinicalWorks reporting, Paylocity, bank and loan view access, and the discovery materials."
+   ]
+  },
+  {
+   "id": "next.step4.head",
+   "lines": [
+    "Kick off"
+   ]
+  },
+  {
+   "id": "next.step4.body",
+   "lines": [
+    "On site in Phoenix the following week. Knowledge transfer from Mark, close review and the first weekly update begin in week one."
+   ]
+  },
+  {
+   "id": "close.thanks",
+   "lines": [
+    "We appreciate the opportunity to earn the practice's business and to become a trusted partner to the physicians."
+   ]
+  },
+  {
+   "id": "close.prepared",
+   "lines": [
+    "Prepared for",
+    "Arizona Center for Hand to Shoulder Surgery",
+    "Mark Williamson, [Title]"
+   ]
+  }
+ ]
+}

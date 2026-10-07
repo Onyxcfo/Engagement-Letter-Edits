@@ -6,7 +6,8 @@ Either of them may start a session. Treat them as equal users. When one of them 
 ("from Steven: …"), apply it.
 
 Before starting client work, read `REWRITE-WALKTHROUGH.md` for the history of the template language.
-For a new client letter, follow the `new-engagement-letter` skill in `.claude/skills/`.
+For a new client letter, follow the `new-engagement-letter` skill in `.claude/skills/`. For the
+proposal deck that goes with a letter, follow the `proposal-deck` skill.
 
 ## What's in the repo
 
@@ -15,7 +16,8 @@ For a new client letter, follow the `new-engagement-letter` skill in `.claude/sk
 | `Onyx_Engagement_Letter_HOURLY.docx` | **Template.** Hourly rate card. |
 | `Onyx_Engagement_Letter_FIXED.docx` | **Template.** Fixed fee. Same content as HOURLY except for the fee section. |
 | `Onyx_Engagement_Letter_<Client>_HOURLY.docx` / `_FIXED.docx` | Client letter in progress, copied from a template. |
-| `Onyx_<Client>_Proposal.pptx` | Client proposal deck that goes with the letter, built on the ONYX charcoal-and-gold design (first used for Comisario). |
+| `Onyx_<Client>_Proposal.pptx` | Client proposal deck that goes with the letter. Current layout: the 14-slide AJAC / George Brazil format. Build one with the `proposal-deck` skill in `.claude/skills/`. |
+| `Onyx_AJAC_Proposal.pptx` | **Reference deck** for the proposal layout (the AJAC / George Brazil proposal). The `proposal-deck` builder copies it and replaces the text. |
 | `Onyx_New_Client_Intake.xlsx` | Discovery-call intake form, filled in during or after the meeting. |
 | `Onyx_Needs_Assessment.xlsx` | Needs checklist. Paste the call transcript into the "Transcript" tab and the "In transcript?" column flags the topics that came up. |
 | `REWRITE-WALKTHROUGH.md` | Change history for the template language. Add an entry here whenever you change a template. |
