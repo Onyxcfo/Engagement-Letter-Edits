@@ -15,6 +15,7 @@ For a new client letter, follow the `new-engagement-letter` skill in `.claude/sk
 | `Onyx_Engagement_Letter_HOURLY.docx` | **Template.** Hourly rate card. |
 | `Onyx_Engagement_Letter_FIXED.docx` | **Template.** Fixed fee. Same content as HOURLY except for the fee section. |
 | `Onyx_Engagement_Letter_<Client>_HOURLY.docx` / `_FIXED.docx` | Client letter in progress, copied from a template. |
+| `Onyx_<Client>_Proposal.pptx` | Client proposal deck that goes with the engagement letter (who we are, what we can help with, timeline, 30/60/90 plan, hourly rates). Built with pptxgenjs; no em-dashes, no AI-sounding phrasing. |
 | `Onyx_New_Client_Intake.xlsx` | Discovery-call intake form, filled in during or after the meeting. |
 | `Onyx_Needs_Assessment.xlsx` | Needs checklist. Paste the call transcript into the "Transcript" tab and the "In transcript?" column flags the topics that came up. |
 | `REWRITE-WALKTHROUGH.md` | Change history for the template language. Add an entry here whenever you change a template. |
