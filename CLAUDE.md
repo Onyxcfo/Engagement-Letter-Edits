@@ -39,3 +39,16 @@ Apply these when tailoring a client engagement letter from the HOURLY or FIXED t
 - Removed the stray "the" before `[identify the work product]` so filling it with "the books and
   supporting schedules" no longer produces "the the".
 - Corrected Steven's direct phone to 480-999-5509.
+
+## Template fixes already applied (Oct 2026, round 2)
+- **Cover page:** removed the "The accounting department your business deserves — without the cost
+  and overhead..." tagline and the four proof-point bullets. Cover is now just the title + the
+  "Prepared by" block. Do not re-add them.
+- **"What we'll do for you":** the three tier labels (Day-to-day, Controller-level, CFO-level) are
+  no longer on their own lines. Each is folded into the sentence beneath it as a **bold lead-in**
+  (e.g. "**Day-to-day accounting operations.**  Our team handles..."). Keep that format for new tiers.
+- **Fees & billing:** rate/fee lines use a single tab + a **right-aligned tab stop at the right
+  margin (9360 twips)** so the dollar amounts sit flush right automatically. Don't hand-tab amounts.
+- Removed the extra blank lines before the **"Time limitation"** heading.
+- Removed the stack of empty paragraphs before **"Response:"** so the Agreement/closing and the
+  client signature block stay together on the signature page.
