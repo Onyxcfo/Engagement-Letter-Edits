@@ -111,7 +111,7 @@ def replace_logo(si, idx, plate=None):
             lines_, size, spc = WMP, 12, '150'
         else:
             lines_, size, spc = WM, 14, '150'
-            tb.width = Inches(4.9)
+            tb.width = Inches(4.9); tb.top = top - Inches(0.25)
         for i, txt in enumerate(lines_):
             para = tf.paragraphs[0] if i == 0 else tf.add_paragraph()
             para.alignment = PP_ALIGN.CENTER if plate else PP_ALIGN.LEFT
