@@ -18,6 +18,7 @@ ap.add_argument('content'); ap.add_argument('out')
 ap.add_argument('--client', required=True, help='client name for the footer and document title')
 ap.add_argument('--template', default=os.path.join(HERE, '..', '..', '..', 'Onyx_AJAC_Proposal.pptx'))
 ap.add_argument('--logo', default=None, help='client logo image; replaces the wordmark')
+ap.add_argument('--badge', default=None, help='badge image (e.g. Intuit ProAdvisor) placed beside the firm paragraph on the Who we are slide')
 ap.add_argument('--wordmark', default=None, help='cover wordmark lines, separated by |')
 ap.add_argument('--wordmark-plate', default=None, help='closing-slide wordmark lines, separated by |')
 A = ap.parse_args()
@@ -141,6 +142,11 @@ for n, (h, b) in enumerate([(5, 6), (9, 10), (13, 14)], 1):
     slot(4, h, f'who.item{n}.head'); slot(4, b, f'who.item{n}.body')
 for n, (h, b) in enumerate([(17, 18), (19, 20), (21, 22), (23, 24)], 1):
     slot(4, h, f'who.staff{n}.head'); slot(4, b, f'who.staff{n}.body')
+if A.badge and os.path.exists(A.badge):  # badge beside the firm paragraph
+    S[3][2].width = Inches(4.95)
+    sl4 = p.slides[3]
+    badge = sl4.shapes.add_picture(A.badge, Inches(5.75), Inches(1.72), height=Inches(1.05))
+    badge.name = 'Badge'
 # ---------- slide 5 team
 slot(5, 2, 'team.intro')
 tbl = S[4][3].table
